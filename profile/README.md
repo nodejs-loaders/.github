@@ -3,4 +3,4 @@
 </p>
 <h1 align="center"><code>nodejs-loaders</code></h1>
 <p align="center">A collection of loaders to facilitate a quick and easy local development and CI testing environment.</p>
-<p align="center"><a href="https://github.com/nodejs-loaders">Discover our loaders</a></p>
+<p align="center"><a href="https://www.npmjs.com/org/nodejs-loaders">Discover our loaders</a></p>
